@@ -1,0 +1,14 @@
+{
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 81],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 10,
+  "timeBoostAmount": 1,
+  "miningBoostAmount": 1,
+  "referralCode": "meomundep",
+  "howManyAccountsRunInOneTimeWhenCreateAccounts": 10,
+  "passwordsForCreateAccounts": "không đóng góp được gì thì bớt cái mõm lại đi"
+}
