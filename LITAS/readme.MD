@@ -79,6 +79,8 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `delayEachAccount`: Random delay range (in seconds) between accounts.
   - `timeToRestartAllAccounts`: Time (in seconds) to restart all accounts.
   - `howManyAccountsRunInOneTime`: Number of accounts to run simultaneously.
+  - `timeBoostAmount`: Number of Time boosts.
+  - `miningBoostAmount`: Number of Mining boosts.
 
 ### 2. `emails.txt` - 🗂️ User Data
 
