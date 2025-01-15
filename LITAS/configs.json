@@ -7,8 +7,5 @@
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 10,
   "timeBoostAmount": 1,
-  "miningBoostAmount": 1,
-  "referralCode": "meomundep",
-  "howManyAccountsRunInOneTimeWhenCreateAccounts": 10,
-  "passwordsForCreateAccounts": "không đóng góp được gì thì bớt cái mõm lại đi"
+  "miningBoostAmount": 1
 }
