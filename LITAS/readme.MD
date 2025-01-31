@@ -12,8 +12,7 @@ Welcome to the bot setup guide! Follow the steps below to install and configure 
 2. [Installation Steps](#installation-steps)
 3. [Configuration Files](#configuration-files)
    - [`configs.json`](#1-configsjson)
-   - [`emails.txt`](#2-datastxt)
-   - [`wallets.txt`](#3-walletstxt)
+   - [`datas.txt`](#2-datastxt)
    - [`proxies.txt`](#4-proxiestxt)
 4. [Running the Bot](#running-the-bot)
 5. [Contact and Support](#contact-and-support)
@@ -82,24 +81,14 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `timeBoostAmount`: Number of Time boosts.
   - `miningBoostAmount`: Number of Mining boosts.
 
-### 2. `emails.txt` - 🗂️ User Data
+### 2. `datas.txt` - 🗂️ User Data
 
-- Fill the data for `emails.txt` file. Your emails's addresses.
-
-```txt
-abcxzy@gmail.com
-abcxzy@gmail.com
-abcxzy@gmail.com
-```
-
-### 2.1 `passwords.txt` - 🗂️ User Data
-
-- Fill the data for `emails.txt` file. Your emails's passwords.
+- Fill the data for `datas.txt` file. Get tokens from here >>> [Link](https://t.me/KeoAirDropFreeNee/1318)
 
 ```txt
-abc...
-abc...
-abc...
+ey...
+ey...
+ey...
 ```
 
 _Note: Each row for each account_
