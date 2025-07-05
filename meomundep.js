@@ -1,0 +1,1 @@
+console.log(`Im not fix this script yet, just wait...`)
