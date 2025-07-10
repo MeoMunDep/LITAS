@@ -1,1 +1,1 @@
-console.log(`Im not fix this script yet, just wait...`)
+console.log("Stopped updating this game because its admin said there would be no airdrop distribution.");
